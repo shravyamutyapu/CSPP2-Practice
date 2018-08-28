@@ -5,9 +5,7 @@ public class area_of_circle{
 	}
 	static double area(double radius){
 		
-		double area;
-		area = pi() * radius * radius;
-		return area;
+		return pi() * radius * radius;
 	}
     
 
